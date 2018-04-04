@@ -1,0 +1,6 @@
+/* line 1, C:/wamp/www/wordpress/wp-content/themes/maccop-test/scss/header.scss */
+.navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show > .nav-link {
+  color: red;
+}
+
+/*# sourceMappingURL=../css/global.map */
